@@ -1,0 +1,301 @@
+﻿Mã khách hàng,Tên khách hàng,Mã đơn hàng,Ngày giao hàng,Sản phẩm / Dịch vụ,Doanh thu,Trạng thái,Khu vực
+MAU-KH-001,Khách mẫu 001,MAU-DH-0001,01/10/2026,Gói tiêu chuẩn,153,Completed,Hà Nội
+MAU-KH-002,Khách mẫu 002,MAU-DH-0002,02/10/2026,Gói nâng cao,292,Canceled,Đà Nẵng
+MAU-KH-003,Khách mẫu 003,MAU-DH-0003,03/10/2026,Tích hợp dữ liệu,431,Processing,TP. Hồ Chí Minh
+MAU-KH-004,Khách mẫu 004,MAU-DH-0004,04/10/2026,Dịch vụ hỗ trợ,570,Shipped,Hà Nội
+MAU-KH-005,Khách mẫu 005,MAU-DH-0005,05/10/2026,Gói tiêu chuẩn,709,Completed,Đà Nẵng
+MAU-KH-006,Khách mẫu 006,MAU-DH-0006,06/10/2026,Gói nâng cao,848,Canceled,TP. Hồ Chí Minh
+MAU-KH-007,Khách mẫu 007,MAU-DH-0007,07/10/2026,Tích hợp dữ liệu,987,Processing,Hà Nội
+MAU-KH-008,Khách mẫu 008,MAU-DH-0008,08/10/2026,Dịch vụ hỗ trợ,1126,Shipped,Đà Nẵng
+MAU-KH-009,Khách mẫu 009,MAU-DH-0009,09/10/2026,Gói tiêu chuẩn,1265,Shipped,TP. Hồ Chí Minh
+MAU-KH-010,Khách mẫu 010,MAU-DH-0010,10/10/2026,Gói nâng cao,1404,Completed,Hà Nội
+MAU-KH-011,Khách mẫu 011,MAU-DH-0011,11/10/2026,Tích hợp dữ liệu,1543,Canceled,Đà Nẵng
+MAU-KH-012,Khách mẫu 012,MAU-DH-0012,12/10/2026,Dịch vụ hỗ trợ,182,Processing,TP. Hồ Chí Minh
+MAU-KH-013,Khách mẫu 013,MAU-DH-0013,13/10/2026,Gói tiêu chuẩn,321,Shipped,Hà Nội
+MAU-KH-014,Khách mẫu 014,MAU-DH-0014,14/10/2026,Gói nâng cao,460,Completed,Đà Nẵng
+MAU-KH-015,Khách mẫu 015,MAU-DH-0015,15/10/2026,Tích hợp dữ liệu,599,Canceled,TP. Hồ Chí Minh
+MAU-KH-016,Khách mẫu 016,MAU-DH-0016,16/10/2026,Dịch vụ hỗ trợ,738,Processing,Hà Nội
+MAU-KH-017,Khách mẫu 017,MAU-DH-0017,17/10/2026,Gói tiêu chuẩn,877,Processing,Đà Nẵng
+MAU-KH-018,Khách mẫu 018,MAU-DH-0018,18/10/2026,Gói nâng cao,1016,Shipped,TP. Hồ Chí Minh
+MAU-KH-019,Khách mẫu 019,MAU-DH-0019,19/10/2026,Tích hợp dữ liệu,1155,Completed,Hà Nội
+MAU-KH-020,Khách mẫu 020,MAU-DH-0020,20/10/2026,Dịch vụ hỗ trợ,1294,Canceled,Đà Nẵng
+MAU-KH-021,Khách mẫu 021,MAU-DH-0021,21/10/2026,Gói tiêu chuẩn,1433,Processing,TP. Hồ Chí Minh
+MAU-KH-022,Khách mẫu 022,MAU-DH-0022,22/10/2026,Gói nâng cao,1572,Shipped,Hà Nội
+MAU-KH-023,Khách mẫu 023,MAU-DH-0023,23/10/2026,Tích hợp dữ liệu,211,Completed,Đà Nẵng
+MAU-KH-024,Khách mẫu 024,MAU-DH-0024,24/10/2026,Dịch vụ hỗ trợ,350,Canceled,TP. Hồ Chí Minh
+MAU-KH-025,Khách mẫu 025,MAU-DH-0025,25/10/2026,Gói tiêu chuẩn,489,Canceled,Hà Nội
+MAU-KH-026,Khách mẫu 026,MAU-DH-0026,26/10/2026,Gói nâng cao,628,Processing,Đà Nẵng
+MAU-KH-027,Khách mẫu 027,MAU-DH-0027,27/10/2026,Tích hợp dữ liệu,767,Shipped,TP. Hồ Chí Minh
+MAU-KH-028,Khách mẫu 028,MAU-DH-0028,28/10/2026,Dịch vụ hỗ trợ,906,Completed,Hà Nội
+MAU-KH-029,Khách mẫu 029,MAU-DH-0029,01/10/2026,Gói tiêu chuẩn,1045,Canceled,Đà Nẵng
+MAU-KH-030,Khách mẫu 030,MAU-DH-0030,02/10/2026,Gói nâng cao,1184,Processing,TP. Hồ Chí Minh
+MAU-KH-031,Khách mẫu 031,MAU-DH-0031,03/10/2026,Tích hợp dữ liệu,1323,Shipped,Hà Nội
+MAU-KH-032,Khách mẫu 032,MAU-DH-0032,04/10/2026,Dịch vụ hỗ trợ,1462,Completed,Đà Nẵng
+MAU-KH-033,Khách mẫu 033,MAU-DH-0033,05/10/2026,Gói tiêu chuẩn,101,Completed,TP. Hồ Chí Minh
+MAU-KH-034,Khách mẫu 034,MAU-DH-0034,06/10/2026,Gói nâng cao,240,Canceled,Hà Nội
+MAU-KH-035,Khách mẫu 035,MAU-DH-0035,07/10/2026,Tích hợp dữ liệu,379,Processing,Đà Nẵng
+MAU-KH-036,Khách mẫu 036,MAU-DH-0036,08/10/2026,Dịch vụ hỗ trợ,518,Shipped,TP. Hồ Chí Minh
+MAU-KH-037,Khách mẫu 037,MAU-DH-0037,09/10/2026,Gói tiêu chuẩn,657,Completed,Hà Nội
+MAU-KH-038,Khách mẫu 038,MAU-DH-0038,10/10/2026,Gói nâng cao,796,Canceled,Đà Nẵng
+MAU-KH-039,Khách mẫu 039,MAU-DH-0039,11/10/2026,Tích hợp dữ liệu,935,Processing,TP. Hồ Chí Minh
+MAU-KH-040,Khách mẫu 040,MAU-DH-0040,12/10/2026,Dịch vụ hỗ trợ,1074,Shipped,Hà Nội
+MAU-KH-041,Khách mẫu 041,MAU-DH-0041,13/10/2026,Gói tiêu chuẩn,1213,Shipped,Đà Nẵng
+MAU-KH-042,Khách mẫu 042,MAU-DH-0042,14/10/2026,Gói nâng cao,1352,Completed,TP. Hồ Chí Minh
+MAU-KH-043,Khách mẫu 043,MAU-DH-0043,15/10/2026,Tích hợp dữ liệu,1491,Canceled,Hà Nội
+MAU-KH-044,Khách mẫu 044,MAU-DH-0044,16/10/2026,Dịch vụ hỗ trợ,130,Processing,Đà Nẵng
+MAU-KH-045,Khách mẫu 045,MAU-DH-0045,17/10/2026,Gói tiêu chuẩn,269,Shipped,TP. Hồ Chí Minh
+MAU-KH-046,Khách mẫu 046,MAU-DH-0046,18/10/2026,Gói nâng cao,408,Completed,Hà Nội
+MAU-KH-047,Khách mẫu 047,MAU-DH-0047,19/10/2026,Tích hợp dữ liệu,547,Canceled,Đà Nẵng
+MAU-KH-048,Khách mẫu 048,MAU-DH-0048,20/10/2026,Dịch vụ hỗ trợ,686,Processing,TP. Hồ Chí Minh
+MAU-KH-049,Khách mẫu 049,MAU-DH-0049,21/10/2026,Gói tiêu chuẩn,825,Processing,Hà Nội
+MAU-KH-050,Khách mẫu 050,MAU-DH-0050,22/10/2026,Gói nâng cao,964,Shipped,Đà Nẵng
+MAU-KH-051,Khách mẫu 051,MAU-DH-0051,23/10/2026,Tích hợp dữ liệu,1103,Completed,TP. Hồ Chí Minh
+MAU-KH-052,Khách mẫu 052,MAU-DH-0052,24/10/2026,Dịch vụ hỗ trợ,1242,Canceled,Hà Nội
+MAU-KH-053,Khách mẫu 053,MAU-DH-0053,25/10/2026,Gói tiêu chuẩn,1381,Processing,Đà Nẵng
+MAU-KH-054,Khách mẫu 054,MAU-DH-0054,26/10/2026,Gói nâng cao,1520,Shipped,TP. Hồ Chí Minh
+MAU-KH-055,Khách mẫu 055,MAU-DH-0055,27/10/2026,Tích hợp dữ liệu,159,Completed,Hà Nội
+MAU-KH-056,Khách mẫu 056,MAU-DH-0056,28/10/2026,Dịch vụ hỗ trợ,298,Canceled,Đà Nẵng
+MAU-KH-057,Khách mẫu 057,MAU-DH-0057,01/10/2026,Gói tiêu chuẩn,437,Canceled,TP. Hồ Chí Minh
+MAU-KH-058,Khách mẫu 058,MAU-DH-0058,02/10/2026,Gói nâng cao,576,Processing,Hà Nội
+MAU-KH-059,Khách mẫu 059,MAU-DH-0059,03/10/2026,Tích hợp dữ liệu,715,Shipped,Đà Nẵng
+MAU-KH-060,Khách mẫu 060,MAU-DH-0060,04/10/2026,Dịch vụ hỗ trợ,854,Completed,TP. Hồ Chí Minh
+MAU-KH-061,Khách mẫu 061,MAU-DH-0061,05/10/2026,Gói tiêu chuẩn,993,Canceled,Hà Nội
+MAU-KH-062,Khách mẫu 062,MAU-DH-0062,06/10/2026,Gói nâng cao,1132,Processing,Đà Nẵng
+MAU-KH-063,Khách mẫu 063,MAU-DH-0063,07/10/2026,Tích hợp dữ liệu,1271,Shipped,TP. Hồ Chí Minh
+MAU-KH-064,Khách mẫu 064,MAU-DH-0064,08/10/2026,Dịch vụ hỗ trợ,1410,Completed,Hà Nội
+MAU-KH-001,Khách mẫu 001,MAU-DH-0065,09/10/2026,Gói tiêu chuẩn,1549,Completed,Đà Nẵng
+MAU-KH-002,Khách mẫu 002,MAU-DH-0066,10/10/2026,Gói nâng cao,188,Canceled,TP. Hồ Chí Minh
+MAU-KH-003,Khách mẫu 003,MAU-DH-0067,11/10/2026,Tích hợp dữ liệu,327,Processing,Hà Nội
+MAU-KH-004,Khách mẫu 004,MAU-DH-0068,12/10/2026,Dịch vụ hỗ trợ,466,Shipped,Đà Nẵng
+MAU-KH-005,Khách mẫu 005,MAU-DH-0069,13/10/2026,Gói tiêu chuẩn,605,Completed,TP. Hồ Chí Minh
+MAU-KH-006,Khách mẫu 006,MAU-DH-0070,14/10/2026,Gói nâng cao,744,Canceled,Hà Nội
+MAU-KH-007,Khách mẫu 007,MAU-DH-0071,15/10/2026,Tích hợp dữ liệu,883,Processing,Đà Nẵng
+MAU-KH-008,Khách mẫu 008,MAU-DH-0072,16/10/2026,Dịch vụ hỗ trợ,1022,Shipped,TP. Hồ Chí Minh
+MAU-KH-009,Khách mẫu 009,MAU-DH-0073,17/10/2026,Gói tiêu chuẩn,1161,Shipped,Hà Nội
+MAU-KH-010,Khách mẫu 010,MAU-DH-0074,18/10/2026,Gói nâng cao,1300,Completed,Đà Nẵng
+MAU-KH-011,Khách mẫu 011,MAU-DH-0075,19/10/2026,Tích hợp dữ liệu,1439,Canceled,TP. Hồ Chí Minh
+MAU-KH-012,Khách mẫu 012,MAU-DH-0076,20/10/2026,Dịch vụ hỗ trợ,1578,Processing,Hà Nội
+MAU-KH-013,Khách mẫu 013,MAU-DH-0077,21/10/2026,Gói tiêu chuẩn,217,Shipped,Đà Nẵng
+MAU-KH-014,Khách mẫu 014,MAU-DH-0078,22/10/2026,Gói nâng cao,356,Completed,TP. Hồ Chí Minh
+MAU-KH-015,Khách mẫu 015,MAU-DH-0079,23/10/2026,Tích hợp dữ liệu,495,Canceled,Hà Nội
+MAU-KH-016,Khách mẫu 016,MAU-DH-0080,24/10/2026,Dịch vụ hỗ trợ,634,Processing,Đà Nẵng
+MAU-KH-017,Khách mẫu 017,MAU-DH-0081,25/10/2026,Gói tiêu chuẩn,773,Processing,TP. Hồ Chí Minh
+MAU-KH-018,Khách mẫu 018,MAU-DH-0082,26/10/2026,Gói nâng cao,912,Shipped,Hà Nội
+MAU-KH-019,Khách mẫu 019,MAU-DH-0083,27/10/2026,Tích hợp dữ liệu,1051,Completed,Đà Nẵng
+MAU-KH-020,Khách mẫu 020,MAU-DH-0084,28/10/2026,Dịch vụ hỗ trợ,1190,Canceled,TP. Hồ Chí Minh
+MAU-KH-021,Khách mẫu 021,MAU-DH-0085,01/10/2026,Gói tiêu chuẩn,1329,Processing,Hà Nội
+MAU-KH-022,Khách mẫu 022,MAU-DH-0086,02/10/2026,Gói nâng cao,1468,Shipped,Đà Nẵng
+MAU-KH-023,Khách mẫu 023,MAU-DH-0087,03/10/2026,Tích hợp dữ liệu,107,Completed,TP. Hồ Chí Minh
+MAU-KH-024,Khách mẫu 024,MAU-DH-0088,04/10/2026,Dịch vụ hỗ trợ,246,Canceled,Hà Nội
+MAU-KH-025,Khách mẫu 025,MAU-DH-0089,05/10/2026,Gói tiêu chuẩn,385,Canceled,Đà Nẵng
+MAU-KH-026,Khách mẫu 026,MAU-DH-0090,06/10/2026,Gói nâng cao,524,Processing,TP. Hồ Chí Minh
+MAU-KH-027,Khách mẫu 027,MAU-DH-0091,07/10/2026,Tích hợp dữ liệu,663,Shipped,Hà Nội
+MAU-KH-028,Khách mẫu 028,MAU-DH-0092,08/10/2026,Dịch vụ hỗ trợ,802,Completed,Đà Nẵng
+MAU-KH-029,Khách mẫu 029,MAU-DH-0093,09/10/2026,Gói tiêu chuẩn,941,Canceled,TP. Hồ Chí Minh
+MAU-KH-030,Khách mẫu 030,MAU-DH-0094,10/10/2026,Gói nâng cao,1080,Processing,Hà Nội
+MAU-KH-031,Khách mẫu 031,MAU-DH-0095,11/10/2026,Tích hợp dữ liệu,1219,Shipped,Đà Nẵng
+MAU-KH-032,Khách mẫu 032,MAU-DH-0096,12/10/2026,Dịch vụ hỗ trợ,1358,Completed,TP. Hồ Chí Minh
+MAU-KH-033,Khách mẫu 033,MAU-DH-0097,13/10/2026,Gói tiêu chuẩn,1497,Completed,Hà Nội
+MAU-KH-034,Khách mẫu 034,MAU-DH-0098,14/10/2026,Gói nâng cao,136,Canceled,Đà Nẵng
+MAU-KH-035,Khách mẫu 035,MAU-DH-0099,15/10/2026,Tích hợp dữ liệu,275,Processing,TP. Hồ Chí Minh
+MAU-KH-036,Khách mẫu 036,MAU-DH-0100,16/10/2026,Dịch vụ hỗ trợ,414,Shipped,Hà Nội
+MAU-KH-037,Khách mẫu 037,MAU-DH-0101,17/10/2026,Gói tiêu chuẩn,553,Completed,Đà Nẵng
+MAU-KH-038,Khách mẫu 038,MAU-DH-0102,18/10/2026,Gói nâng cao,692,Canceled,TP. Hồ Chí Minh
+MAU-KH-039,Khách mẫu 039,MAU-DH-0103,19/10/2026,Tích hợp dữ liệu,831,Processing,Hà Nội
+MAU-KH-040,Khách mẫu 040,MAU-DH-0104,20/10/2026,Dịch vụ hỗ trợ,970,Shipped,Đà Nẵng
+MAU-KH-041,Khách mẫu 041,MAU-DH-0105,21/10/2026,Gói tiêu chuẩn,1109,Shipped,TP. Hồ Chí Minh
+MAU-KH-042,Khách mẫu 042,MAU-DH-0106,22/10/2026,Gói nâng cao,1248,Completed,Hà Nội
+MAU-KH-043,Khách mẫu 043,MAU-DH-0107,23/10/2026,Tích hợp dữ liệu,1387,Canceled,Đà Nẵng
+MAU-KH-044,Khách mẫu 044,MAU-DH-0108,24/10/2026,Dịch vụ hỗ trợ,1526,Processing,TP. Hồ Chí Minh
+MAU-KH-045,Khách mẫu 045,MAU-DH-0109,25/10/2026,Gói tiêu chuẩn,165,Shipped,Hà Nội
+MAU-KH-046,Khách mẫu 046,MAU-DH-0110,26/10/2026,Gói nâng cao,304,Completed,Đà Nẵng
+MAU-KH-047,Khách mẫu 047,MAU-DH-0111,27/10/2026,Tích hợp dữ liệu,443,Canceled,TP. Hồ Chí Minh
+MAU-KH-048,Khách mẫu 048,MAU-DH-0112,28/10/2026,Dịch vụ hỗ trợ,582,Processing,Hà Nội
+MAU-KH-049,Khách mẫu 049,MAU-DH-0113,01/10/2026,Gói tiêu chuẩn,721,Processing,Đà Nẵng
+MAU-KH-050,Khách mẫu 050,MAU-DH-0114,02/10/2026,Gói nâng cao,860,Shipped,TP. Hồ Chí Minh
+MAU-KH-051,Khách mẫu 051,MAU-DH-0115,03/10/2026,Tích hợp dữ liệu,999,Completed,Hà Nội
+MAU-KH-052,Khách mẫu 052,MAU-DH-0116,04/10/2026,Dịch vụ hỗ trợ,1138,Canceled,Đà Nẵng
+MAU-KH-053,Khách mẫu 053,MAU-DH-0117,05/10/2026,Gói tiêu chuẩn,1277,Processing,TP. Hồ Chí Minh
+MAU-KH-054,Khách mẫu 054,MAU-DH-0118,06/10/2026,Gói nâng cao,1416,Shipped,Hà Nội
+MAU-KH-055,Khách mẫu 055,MAU-DH-0119,07/10/2026,Tích hợp dữ liệu,1555,Completed,Đà Nẵng
+MAU-KH-056,Khách mẫu 056,MAU-DH-0120,08/10/2026,Dịch vụ hỗ trợ,194,Canceled,TP. Hồ Chí Minh
+MAU-KH-057,Khách mẫu 057,MAU-DH-0121,09/10/2026,Gói tiêu chuẩn,333,Canceled,Hà Nội
+MAU-KH-058,Khách mẫu 058,MAU-DH-0122,10/10/2026,Gói nâng cao,472,Processing,Đà Nẵng
+MAU-KH-059,Khách mẫu 059,MAU-DH-0123,11/10/2026,Tích hợp dữ liệu,611,Shipped,TP. Hồ Chí Minh
+MAU-KH-060,Khách mẫu 060,MAU-DH-0124,12/10/2026,Dịch vụ hỗ trợ,750,Completed,Hà Nội
+MAU-KH-061,Khách mẫu 061,MAU-DH-0125,13/10/2026,Gói tiêu chuẩn,889,Canceled,Đà Nẵng
+MAU-KH-062,Khách mẫu 062,MAU-DH-0126,14/10/2026,Gói nâng cao,1028,Processing,TP. Hồ Chí Minh
+MAU-KH-063,Khách mẫu 063,MAU-DH-0127,15/10/2026,Tích hợp dữ liệu,1167,Shipped,Hà Nội
+MAU-KH-064,Khách mẫu 064,MAU-DH-0128,16/10/2026,Dịch vụ hỗ trợ,1306,Completed,Đà Nẵng
+MAU-KH-001,Khách mẫu 001,MAU-DH-0129,17/10/2026,Gói tiêu chuẩn,1445,Completed,TP. Hồ Chí Minh
+MAU-KH-002,Khách mẫu 002,MAU-DH-0130,18/10/2026,Gói nâng cao,1584,Canceled,Hà Nội
+MAU-KH-003,Khách mẫu 003,MAU-DH-0131,19/10/2026,Tích hợp dữ liệu,223,Processing,Đà Nẵng
+MAU-KH-004,Khách mẫu 004,MAU-DH-0132,20/10/2026,Dịch vụ hỗ trợ,362,Shipped,TP. Hồ Chí Minh
+MAU-KH-005,Khách mẫu 005,MAU-DH-0133,21/10/2026,Gói tiêu chuẩn,501,Completed,Hà Nội
+MAU-KH-006,Khách mẫu 006,MAU-DH-0134,22/10/2026,Gói nâng cao,640,Canceled,Đà Nẵng
+MAU-KH-007,Khách mẫu 007,MAU-DH-0135,23/10/2026,Tích hợp dữ liệu,779,Processing,TP. Hồ Chí Minh
+MAU-KH-008,Khách mẫu 008,MAU-DH-0136,24/10/2026,Dịch vụ hỗ trợ,918,Shipped,Hà Nội
+MAU-KH-009,Khách mẫu 009,MAU-DH-0137,25/10/2026,Gói tiêu chuẩn,1057,Shipped,Đà Nẵng
+MAU-KH-010,Khách mẫu 010,MAU-DH-0138,26/10/2026,Gói nâng cao,1196,Completed,TP. Hồ Chí Minh
+MAU-KH-011,Khách mẫu 011,MAU-DH-0139,27/10/2026,Tích hợp dữ liệu,1335,Canceled,Hà Nội
+MAU-KH-012,Khách mẫu 012,MAU-DH-0140,28/10/2026,Dịch vụ hỗ trợ,1474,Processing,Đà Nẵng
+MAU-KH-013,Khách mẫu 013,MAU-DH-0141,01/10/2026,Gói tiêu chuẩn,113,Shipped,TP. Hồ Chí Minh
+MAU-KH-014,Khách mẫu 014,MAU-DH-0142,02/10/2026,Gói nâng cao,252,Completed,Hà Nội
+MAU-KH-015,Khách mẫu 015,MAU-DH-0143,03/10/2026,Tích hợp dữ liệu,391,Canceled,Đà Nẵng
+MAU-KH-016,Khách mẫu 016,MAU-DH-0144,04/10/2026,Dịch vụ hỗ trợ,530,Processing,TP. Hồ Chí Minh
+MAU-KH-017,Khách mẫu 017,MAU-DH-0145,05/10/2026,Gói tiêu chuẩn,669,Processing,Hà Nội
+MAU-KH-018,Khách mẫu 018,MAU-DH-0146,06/10/2026,Gói nâng cao,808,Shipped,Đà Nẵng
+MAU-KH-019,Khách mẫu 019,MAU-DH-0147,07/10/2026,Tích hợp dữ liệu,947,Completed,TP. Hồ Chí Minh
+MAU-KH-020,Khách mẫu 020,MAU-DH-0148,08/10/2026,Dịch vụ hỗ trợ,1086,Canceled,Hà Nội
+MAU-KH-021,Khách mẫu 021,MAU-DH-0149,09/10/2026,Gói tiêu chuẩn,1225,Processing,Đà Nẵng
+MAU-KH-022,Khách mẫu 022,MAU-DH-0150,10/10/2026,Gói nâng cao,1364,Shipped,TP. Hồ Chí Minh
+MAU-KH-023,Khách mẫu 023,MAU-DH-0151,11/10/2026,Tích hợp dữ liệu,1503,Completed,Hà Nội
+MAU-KH-024,Khách mẫu 024,MAU-DH-0152,12/10/2026,Dịch vụ hỗ trợ,142,Canceled,Đà Nẵng
+MAU-KH-025,Khách mẫu 025,MAU-DH-0153,13/10/2026,Gói tiêu chuẩn,281,Canceled,TP. Hồ Chí Minh
+MAU-KH-026,Khách mẫu 026,MAU-DH-0154,14/10/2026,Gói nâng cao,420,Processing,Hà Nội
+MAU-KH-027,Khách mẫu 027,MAU-DH-0155,15/10/2026,Tích hợp dữ liệu,559,Shipped,Đà Nẵng
+MAU-KH-028,Khách mẫu 028,MAU-DH-0156,16/10/2026,Dịch vụ hỗ trợ,698,Completed,TP. Hồ Chí Minh
+MAU-KH-029,Khách mẫu 029,MAU-DH-0157,17/10/2026,Gói tiêu chuẩn,837,Canceled,Hà Nội
+MAU-KH-030,Khách mẫu 030,MAU-DH-0158,18/10/2026,Gói nâng cao,976,Processing,Đà Nẵng
+MAU-KH-031,Khách mẫu 031,MAU-DH-0159,19/10/2026,Tích hợp dữ liệu,1115,Shipped,TP. Hồ Chí Minh
+MAU-KH-032,Khách mẫu 032,MAU-DH-0160,20/10/2026,Dịch vụ hỗ trợ,1254,Completed,Hà Nội
+MAU-KH-033,Khách mẫu 033,MAU-DH-0161,21/10/2026,Gói tiêu chuẩn,1393,Completed,Đà Nẵng
+MAU-KH-034,Khách mẫu 034,MAU-DH-0162,22/10/2026,Gói nâng cao,1532,Canceled,TP. Hồ Chí Minh
+MAU-KH-035,Khách mẫu 035,MAU-DH-0163,23/10/2026,Tích hợp dữ liệu,171,Processing,Hà Nội
+MAU-KH-036,Khách mẫu 036,MAU-DH-0164,24/10/2026,Dịch vụ hỗ trợ,310,Shipped,Đà Nẵng
+MAU-KH-037,Khách mẫu 037,MAU-DH-0165,25/10/2026,Gói tiêu chuẩn,449,Completed,TP. Hồ Chí Minh
+MAU-KH-038,Khách mẫu 038,MAU-DH-0166,26/10/2026,Gói nâng cao,588,Canceled,Hà Nội
+MAU-KH-039,Khách mẫu 039,MAU-DH-0167,27/10/2026,Tích hợp dữ liệu,727,Processing,Đà Nẵng
+MAU-KH-040,Khách mẫu 040,MAU-DH-0168,28/10/2026,Dịch vụ hỗ trợ,866,Shipped,TP. Hồ Chí Minh
+MAU-KH-041,Khách mẫu 041,MAU-DH-0169,01/10/2026,Gói tiêu chuẩn,1005,Shipped,Hà Nội
+MAU-KH-042,Khách mẫu 042,MAU-DH-0170,02/10/2026,Gói nâng cao,1144,Completed,Đà Nẵng
+MAU-KH-043,Khách mẫu 043,MAU-DH-0171,03/10/2026,Tích hợp dữ liệu,1283,Canceled,TP. Hồ Chí Minh
+MAU-KH-044,Khách mẫu 044,MAU-DH-0172,04/10/2026,Dịch vụ hỗ trợ,1422,Processing,Hà Nội
+MAU-KH-045,Khách mẫu 045,MAU-DH-0173,05/10/2026,Gói tiêu chuẩn,1561,Shipped,Đà Nẵng
+MAU-KH-046,Khách mẫu 046,MAU-DH-0174,06/10/2026,Gói nâng cao,200,Completed,TP. Hồ Chí Minh
+MAU-KH-047,Khách mẫu 047,MAU-DH-0175,07/10/2026,Tích hợp dữ liệu,339,Canceled,Hà Nội
+MAU-KH-048,Khách mẫu 048,MAU-DH-0176,08/10/2026,Dịch vụ hỗ trợ,478,Processing,Đà Nẵng
+MAU-KH-049,Khách mẫu 049,MAU-DH-0177,09/10/2026,Gói tiêu chuẩn,617,Processing,TP. Hồ Chí Minh
+MAU-KH-050,Khách mẫu 050,MAU-DH-0178,10/10/2026,Gói nâng cao,756,Shipped,Hà Nội
+MAU-KH-051,Khách mẫu 051,MAU-DH-0179,11/10/2026,Tích hợp dữ liệu,895,Completed,Đà Nẵng
+MAU-KH-052,Khách mẫu 052,MAU-DH-0180,12/10/2026,Dịch vụ hỗ trợ,1034,Canceled,TP. Hồ Chí Minh
+MAU-KH-053,Khách mẫu 053,MAU-DH-0181,13/10/2026,Gói tiêu chuẩn,1173,Processing,Hà Nội
+MAU-KH-054,Khách mẫu 054,MAU-DH-0182,14/10/2026,Gói nâng cao,1312,Shipped,Đà Nẵng
+MAU-KH-055,Khách mẫu 055,MAU-DH-0183,15/10/2026,Tích hợp dữ liệu,1451,Completed,TP. Hồ Chí Minh
+MAU-KH-056,Khách mẫu 056,MAU-DH-0184,16/10/2026,Dịch vụ hỗ trợ,1590,Canceled,Hà Nội
+MAU-KH-057,Khách mẫu 057,MAU-DH-0185,17/10/2026,Gói tiêu chuẩn,229,Canceled,Đà Nẵng
+MAU-KH-058,Khách mẫu 058,MAU-DH-0186,18/10/2026,Gói nâng cao,368,Processing,TP. Hồ Chí Minh
+MAU-KH-059,Khách mẫu 059,MAU-DH-0187,19/10/2026,Tích hợp dữ liệu,507,Shipped,Hà Nội
+MAU-KH-060,Khách mẫu 060,MAU-DH-0188,20/10/2026,Dịch vụ hỗ trợ,646,Completed,Đà Nẵng
+MAU-KH-061,Khách mẫu 061,MAU-DH-0189,21/10/2026,Gói tiêu chuẩn,785,Canceled,TP. Hồ Chí Minh
+MAU-KH-062,Khách mẫu 062,MAU-DH-0190,22/10/2026,Gói nâng cao,924,Processing,Hà Nội
+MAU-KH-063,Khách mẫu 063,MAU-DH-0191,23/10/2026,Tích hợp dữ liệu,1063,Shipped,Đà Nẵng
+MAU-KH-064,Khách mẫu 064,MAU-DH-0192,24/10/2026,Dịch vụ hỗ trợ,1202,Completed,TP. Hồ Chí Minh
+MAU-KH-001,Khách mẫu 001,MAU-DH-0193,25/10/2026,Gói tiêu chuẩn,1341,Completed,Hà Nội
+MAU-KH-002,Khách mẫu 002,MAU-DH-0194,26/10/2026,Gói nâng cao,1480,Canceled,Đà Nẵng
+MAU-KH-003,Khách mẫu 003,MAU-DH-0195,27/10/2026,Tích hợp dữ liệu,119,Processing,TP. Hồ Chí Minh
+MAU-KH-004,Khách mẫu 004,MAU-DH-0196,28/10/2026,Dịch vụ hỗ trợ,258,Shipped,Hà Nội
+MAU-KH-005,Khách mẫu 005,MAU-DH-0197,01/10/2026,Gói tiêu chuẩn,397,Completed,Đà Nẵng
+MAU-KH-006,Khách mẫu 006,MAU-DH-0198,02/10/2026,Gói nâng cao,536,Canceled,TP. Hồ Chí Minh
+MAU-KH-007,Khách mẫu 007,MAU-DH-0199,03/10/2026,Tích hợp dữ liệu,675,Processing,Hà Nội
+MAU-KH-008,Khách mẫu 008,MAU-DH-0200,04/10/2026,Dịch vụ hỗ trợ,814,Shipped,Đà Nẵng
+MAU-KH-009,Khách mẫu 009,MAU-DH-0201,05/10/2026,Gói tiêu chuẩn,953,Shipped,TP. Hồ Chí Minh
+MAU-KH-010,Khách mẫu 010,MAU-DH-0202,06/10/2026,Gói nâng cao,1092,Completed,Hà Nội
+MAU-KH-011,Khách mẫu 011,MAU-DH-0203,07/10/2026,Tích hợp dữ liệu,1231,Canceled,Đà Nẵng
+MAU-KH-012,Khách mẫu 012,MAU-DH-0204,08/10/2026,Dịch vụ hỗ trợ,1370,Processing,TP. Hồ Chí Minh
+MAU-KH-013,Khách mẫu 013,MAU-DH-0205,09/10/2026,Gói tiêu chuẩn,1509,Shipped,Hà Nội
+MAU-KH-014,Khách mẫu 014,MAU-DH-0206,10/10/2026,Gói nâng cao,148,Completed,Đà Nẵng
+MAU-KH-015,Khách mẫu 015,MAU-DH-0207,11/10/2026,Tích hợp dữ liệu,287,Canceled,TP. Hồ Chí Minh
+MAU-KH-016,Khách mẫu 016,MAU-DH-0208,12/10/2026,Dịch vụ hỗ trợ,426,Processing,Hà Nội
+MAU-KH-017,Khách mẫu 017,MAU-DH-0209,13/10/2026,Gói tiêu chuẩn,565,Processing,Đà Nẵng
+MAU-KH-018,Khách mẫu 018,MAU-DH-0210,14/10/2026,Gói nâng cao,704,Shipped,TP. Hồ Chí Minh
+MAU-KH-019,Khách mẫu 019,MAU-DH-0211,15/10/2026,Tích hợp dữ liệu,843,Completed,Hà Nội
+MAU-KH-020,Khách mẫu 020,MAU-DH-0212,16/10/2026,Dịch vụ hỗ trợ,982,Canceled,Đà Nẵng
+MAU-KH-021,Khách mẫu 021,MAU-DH-0213,17/10/2026,Gói tiêu chuẩn,1121,Processing,TP. Hồ Chí Minh
+MAU-KH-022,Khách mẫu 022,MAU-DH-0214,18/10/2026,Gói nâng cao,1260,Shipped,Hà Nội
+MAU-KH-023,Khách mẫu 023,MAU-DH-0215,19/10/2026,Tích hợp dữ liệu,1399,Completed,Đà Nẵng
+MAU-KH-024,Khách mẫu 024,MAU-DH-0216,20/10/2026,Dịch vụ hỗ trợ,1538,Canceled,TP. Hồ Chí Minh
+MAU-KH-025,Khách mẫu 025,MAU-DH-0217,21/10/2026,Gói tiêu chuẩn,177,Canceled,Hà Nội
+MAU-KH-026,Khách mẫu 026,MAU-DH-0218,22/10/2026,Gói nâng cao,316,Processing,Đà Nẵng
+MAU-KH-027,Khách mẫu 027,MAU-DH-0219,23/10/2026,Tích hợp dữ liệu,455,Shipped,TP. Hồ Chí Minh
+MAU-KH-028,Khách mẫu 028,MAU-DH-0220,24/10/2026,Dịch vụ hỗ trợ,594,Completed,Hà Nội
+MAU-KH-029,Khách mẫu 029,MAU-DH-0221,25/10/2026,Gói tiêu chuẩn,733,Canceled,Đà Nẵng
+MAU-KH-030,Khách mẫu 030,MAU-DH-0222,26/10/2026,Gói nâng cao,872,Processing,TP. Hồ Chí Minh
+MAU-KH-031,Khách mẫu 031,MAU-DH-0223,27/10/2026,Tích hợp dữ liệu,1011,Shipped,Hà Nội
+MAU-KH-032,Khách mẫu 032,MAU-DH-0224,28/10/2026,Dịch vụ hỗ trợ,1150,Completed,Đà Nẵng
+MAU-KH-033,Khách mẫu 033,MAU-DH-0225,01/10/2026,Gói tiêu chuẩn,1289,Completed,TP. Hồ Chí Minh
+MAU-KH-034,Khách mẫu 034,MAU-DH-0226,02/10/2026,Gói nâng cao,1428,Canceled,Hà Nội
+MAU-KH-035,Khách mẫu 035,MAU-DH-0227,03/10/2026,Tích hợp dữ liệu,1567,Processing,Đà Nẵng
+MAU-KH-036,Khách mẫu 036,MAU-DH-0228,04/10/2026,Dịch vụ hỗ trợ,206,Shipped,TP. Hồ Chí Minh
+MAU-KH-037,Khách mẫu 037,MAU-DH-0229,05/10/2026,Gói tiêu chuẩn,345,Completed,Hà Nội
+MAU-KH-038,Khách mẫu 038,MAU-DH-0230,06/10/2026,Gói nâng cao,484,Canceled,Đà Nẵng
+MAU-KH-039,Khách mẫu 039,MAU-DH-0231,07/10/2026,Tích hợp dữ liệu,623,Processing,TP. Hồ Chí Minh
+MAU-KH-040,Khách mẫu 040,MAU-DH-0232,08/10/2026,Dịch vụ hỗ trợ,762,Shipped,Hà Nội
+MAU-KH-041,Khách mẫu 041,MAU-DH-0233,09/10/2026,Gói tiêu chuẩn,901,Shipped,Đà Nẵng
+MAU-KH-042,Khách mẫu 042,MAU-DH-0234,10/10/2026,Gói nâng cao,1040,Completed,TP. Hồ Chí Minh
+MAU-KH-043,Khách mẫu 043,MAU-DH-0235,11/10/2026,Tích hợp dữ liệu,1179,Canceled,Hà Nội
+MAU-KH-044,Khách mẫu 044,MAU-DH-0236,12/10/2026,Dịch vụ hỗ trợ,1318,Processing,Đà Nẵng
+MAU-KH-045,Khách mẫu 045,MAU-DH-0237,13/10/2026,Gói tiêu chuẩn,1457,Shipped,TP. Hồ Chí Minh
+MAU-KH-046,Khách mẫu 046,MAU-DH-0238,14/10/2026,Gói nâng cao,1596,Completed,Hà Nội
+MAU-KH-047,Khách mẫu 047,MAU-DH-0239,15/10/2026,Tích hợp dữ liệu,235,Canceled,Đà Nẵng
+MAU-KH-048,Khách mẫu 048,MAU-DH-0240,16/10/2026,Dịch vụ hỗ trợ,374,Processing,TP. Hồ Chí Minh
+MAU-KH-049,Khách mẫu 049,MAU-DH-0241,17/10/2026,Gói tiêu chuẩn,513,Processing,Hà Nội
+MAU-KH-050,Khách mẫu 050,MAU-DH-0242,18/10/2026,Gói nâng cao,652,Shipped,Đà Nẵng
+MAU-KH-051,Khách mẫu 051,MAU-DH-0243,19/10/2026,Tích hợp dữ liệu,791,Completed,TP. Hồ Chí Minh
+MAU-KH-052,Khách mẫu 052,MAU-DH-0244,20/10/2026,Dịch vụ hỗ trợ,930,Canceled,Hà Nội
+MAU-KH-053,Khách mẫu 053,MAU-DH-0245,21/10/2026,Gói tiêu chuẩn,1069,Processing,Đà Nẵng
+MAU-KH-054,Khách mẫu 054,MAU-DH-0246,22/10/2026,Gói nâng cao,1208,Shipped,TP. Hồ Chí Minh
+MAU-KH-055,Khách mẫu 055,MAU-DH-0247,23/10/2026,Tích hợp dữ liệu,1347,Completed,Hà Nội
+MAU-KH-056,Khách mẫu 056,MAU-DH-0248,24/10/2026,Dịch vụ hỗ trợ,1486,Canceled,Đà Nẵng
+MAU-KH-057,Khách mẫu 057,MAU-DH-0249,25/10/2026,Gói tiêu chuẩn,125,Canceled,TP. Hồ Chí Minh
+MAU-KH-058,Khách mẫu 058,MAU-DH-0250,26/10/2026,Gói nâng cao,264,Processing,Hà Nội
+MAU-KH-059,Khách mẫu 059,MAU-DH-0251,27/10/2026,Tích hợp dữ liệu,403,Shipped,Đà Nẵng
+MAU-KH-060,Khách mẫu 060,MAU-DH-0252,28/10/2026,Dịch vụ hỗ trợ,542,Completed,TP. Hồ Chí Minh
+MAU-KH-061,Khách mẫu 061,MAU-DH-0253,01/10/2026,Gói tiêu chuẩn,681,Canceled,Hà Nội
+MAU-KH-062,Khách mẫu 062,MAU-DH-0254,02/10/2026,Gói nâng cao,820,Processing,Đà Nẵng
+MAU-KH-063,Khách mẫu 063,MAU-DH-0255,03/10/2026,Tích hợp dữ liệu,959,Shipped,TP. Hồ Chí Minh
+MAU-KH-064,Khách mẫu 064,MAU-DH-0256,04/10/2026,Dịch vụ hỗ trợ,1098,Completed,Hà Nội
+MAU-KH-001,Khách mẫu 001,MAU-DH-0257,05/10/2026,Gói tiêu chuẩn,1237,Completed,Đà Nẵng
+MAU-KH-002,Khách mẫu 002,MAU-DH-0258,06/10/2026,Gói nâng cao,1376,Canceled,TP. Hồ Chí Minh
+MAU-KH-003,Khách mẫu 003,MAU-DH-0259,07/10/2026,Tích hợp dữ liệu,1515,Processing,Hà Nội
+MAU-KH-004,Khách mẫu 004,MAU-DH-0260,08/10/2026,Dịch vụ hỗ trợ,154,Shipped,Đà Nẵng
+MAU-KH-005,Khách mẫu 005,MAU-DH-0261,09/10/2026,Gói tiêu chuẩn,293,Completed,TP. Hồ Chí Minh
+MAU-KH-006,Khách mẫu 006,MAU-DH-0262,10/10/2026,Gói nâng cao,432,Canceled,Hà Nội
+MAU-KH-007,Khách mẫu 007,MAU-DH-0263,11/10/2026,Tích hợp dữ liệu,571,Processing,Đà Nẵng
+MAU-KH-008,Khách mẫu 008,MAU-DH-0264,12/10/2026,Dịch vụ hỗ trợ,710,Shipped,TP. Hồ Chí Minh
+MAU-KH-009,Khách mẫu 009,MAU-DH-0265,13/10/2026,Gói tiêu chuẩn,849,Shipped,Hà Nội
+MAU-KH-010,Khách mẫu 010,MAU-DH-0266,14/10/2026,Gói nâng cao,988,Completed,Đà Nẵng
+MAU-KH-011,Khách mẫu 011,MAU-DH-0267,15/10/2026,Tích hợp dữ liệu,1127,Canceled,TP. Hồ Chí Minh
+MAU-KH-012,Khách mẫu 012,MAU-DH-0268,16/10/2026,Dịch vụ hỗ trợ,1266,Processing,Hà Nội
+MAU-KH-013,Khách mẫu 013,MAU-DH-0269,17/10/2026,Gói tiêu chuẩn,1405,Shipped,Đà Nẵng
+MAU-KH-014,Khách mẫu 014,MAU-DH-0270,18/10/2026,Gói nâng cao,1544,Completed,TP. Hồ Chí Minh
+MAU-KH-015,Khách mẫu 015,MAU-DH-0271,19/10/2026,Tích hợp dữ liệu,183,Canceled,Hà Nội
+MAU-KH-016,Khách mẫu 016,MAU-DH-0272,20/10/2026,Dịch vụ hỗ trợ,322,Processing,Đà Nẵng
+MAU-KH-017,Khách mẫu 017,MAU-DH-0273,21/10/2026,Gói tiêu chuẩn,461,Processing,TP. Hồ Chí Minh
+MAU-KH-018,Khách mẫu 018,MAU-DH-0274,22/10/2026,Gói nâng cao,600,Shipped,Hà Nội
+MAU-KH-019,Khách mẫu 019,MAU-DH-0275,23/10/2026,Tích hợp dữ liệu,739,Completed,Đà Nẵng
+MAU-KH-020,Khách mẫu 020,MAU-DH-0276,24/10/2026,Dịch vụ hỗ trợ,878,Canceled,TP. Hồ Chí Minh
+MAU-KH-021,Khách mẫu 021,MAU-DH-0277,25/10/2026,Gói tiêu chuẩn,1017,Processing,Hà Nội
+MAU-KH-022,Khách mẫu 022,MAU-DH-0278,26/10/2026,Gói nâng cao,1156,Shipped,Đà Nẵng
+MAU-KH-023,Khách mẫu 023,MAU-DH-0279,27/10/2026,Tích hợp dữ liệu,1295,Completed,TP. Hồ Chí Minh
+MAU-KH-024,Khách mẫu 024,MAU-DH-0280,28/10/2026,Dịch vụ hỗ trợ,1434,Canceled,Hà Nội
+MAU-KH-025,Khách mẫu 025,MAU-DH-0281,01/10/2026,Gói tiêu chuẩn,1573,Canceled,Đà Nẵng
+MAU-KH-026,Khách mẫu 026,MAU-DH-0282,02/10/2026,Gói nâng cao,212,Processing,TP. Hồ Chí Minh
+MAU-KH-027,Khách mẫu 027,MAU-DH-0283,03/10/2026,Tích hợp dữ liệu,351,Shipped,Hà Nội
+MAU-KH-028,Khách mẫu 028,MAU-DH-0284,04/10/2026,Dịch vụ hỗ trợ,490,Completed,Đà Nẵng
+MAU-KH-029,Khách mẫu 029,MAU-DH-0285,05/10/2026,Gói tiêu chuẩn,629,Canceled,TP. Hồ Chí Minh
+MAU-KH-030,Khách mẫu 030,MAU-DH-0286,06/10/2026,Gói nâng cao,768,Processing,Hà Nội
+MAU-KH-031,Khách mẫu 031,MAU-DH-0287,07/10/2026,Tích hợp dữ liệu,907,Shipped,Đà Nẵng
+MAU-KH-032,Khách mẫu 032,MAU-DH-0288,08/10/2026,Dịch vụ hỗ trợ,1046,Completed,TP. Hồ Chí Minh
+MAU-KH-033,Khách mẫu 033,MAU-DH-0289,09/10/2026,Gói tiêu chuẩn,1185,Completed,Hà Nội
+MAU-KH-034,Khách mẫu 034,MAU-DH-0290,10/10/2026,Gói nâng cao,1324,Canceled,Đà Nẵng
+MAU-KH-035,Khách mẫu 035,MAU-DH-0291,11/10/2026,Tích hợp dữ liệu,1463,Processing,TP. Hồ Chí Minh
+MAU-KH-036,Khách mẫu 036,MAU-DH-0292,12/10/2026,Dịch vụ hỗ trợ,102,Shipped,Hà Nội
+MAU-KH-037,Khách mẫu 037,MAU-DH-0293,13/10/2026,Gói tiêu chuẩn,241,Completed,Đà Nẵng
+MAU-KH-038,Khách mẫu 038,MAU-DH-0294,14/10/2026,Gói nâng cao,380,Canceled,TP. Hồ Chí Minh
+MAU-KH-039,Khách mẫu 039,MAU-DH-0295,15/10/2026,Tích hợp dữ liệu,519,Processing,Hà Nội
+MAU-KH-001,Khách mẫu 001,MAU-DH-0001,01/10/2026,Gói tiêu chuẩn,153,Completed,Hà Nội
+MAU-KH-002,Khách mẫu 002,MAU-DH-0002,02/10/2026,Gói nâng cao,292,Canceled,Đà Nẵng
+MAU-KH-003,Khách mẫu 003,MAU-DH-0003,03/10/2026,Tích hợp dữ liệu,431,Processing,TP. Hồ Chí Minh
+MAU-KH-004,Khách mẫu 004,MAU-DH-0004,04/10/2026,Dịch vụ hỗ trợ,570,Shipped,Hà Nội
+MAU-KH-005,Khách mẫu 005,MAU-DH-0005,05/10/2026,Gói tiêu chuẩn,709,Completed,Đà Nẵng
