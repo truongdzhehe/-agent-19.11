@@ -10,7 +10,7 @@
     });
     const result = await response.json().catch(() => null);
     if (!response.ok || !result) {
-      throw new Error(result?.error || 'Không kết nối được với Gemini. Hãy mở agent qua localhost.');
+      throw new Error(result?.error || 'Không kết nối được với Gemini. Hãy kiểm tra cấu hình API trên máy chủ.');
     }
     return result;
   }

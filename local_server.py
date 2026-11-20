@@ -36,7 +36,7 @@ def generate(prompt, *, history=None, max_tokens=1200, structured=False):
         except OSError:
             key = ""
     if not key:
-        raise ApiError(503, "Gemini chưa được bật trên máy chủ local.")
+        raise ApiError(503, "Máy chủ chưa cấu hình GEMINI_API_KEY.")
     config = {"maxOutputTokens": max_tokens}
     if structured:
         config["responseMimeType"] = "application/json"

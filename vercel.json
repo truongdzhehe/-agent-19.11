@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "local_server.py",
+      "maxDuration": 60
+    }
+  },
+  "rewrites": [
+    { "source": "/api/gemini/:feature", "destination": "/api/index?feature=:feature" },
+    { "source": "/local_server.py", "destination": "/api/index" }
+  ]
+}
